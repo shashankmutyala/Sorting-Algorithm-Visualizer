@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/04572c39-d1f8-4f62-94b9-c657dba7ab10
+
 # Sorting-Algorithm-Visualizer
 
 A web-based tool that helps visualize common sorting algorithms.
@@ -18,4 +22,7 @@ A web-based tool that helps visualize common sorting algorithms.
 - CSS
 - JavaScript
 
-![WEBSite](https://github.com/user-attachments/assets/bb1947c3-6c32-4ef6-a2c3-f82ff27899c5)
+
+https://github.com/user-attachments/assets/299c0641-4313-4c52-9a34-4003773c87c1
+
+
